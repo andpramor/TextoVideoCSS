@@ -24,8 +24,11 @@ h2 {
     color: white;
     font-weight: bolder;
     text-align: center;
-    font-size: 30vh;
     mix-blend-mode: difference;
+}
+
+h1 {
+    font-size: 30vh;
 }
 
 h2 {
