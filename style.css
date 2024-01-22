@@ -6,6 +6,7 @@ body {
     justify-content: center;
     align-items: center;
     overflow: hidden;
+    flex-direction: column;
 }
 
 #miVideo {
@@ -22,6 +23,6 @@ h1 {
     color: white;
     font-weight: bolder;
     text-align: center;
-    font-size: 50vh;
+    font-size: 32vh;
     mix-blend-mode: difference;
 }
