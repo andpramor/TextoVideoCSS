@@ -18,11 +18,16 @@ body {
     filter: contrast(140%) brightness(90%);
 }
 
-h1 {
+h1,
+h2 {
     margin: 0;
     color: white;
     font-weight: bolder;
     text-align: center;
     font-size: 30vh;
     mix-blend-mode: difference;
+}
+
+h2 {
+    font-size: 25vh;
 }
